@@ -1,7 +1,6 @@
 # 🏋️‍♂️ Andrea R2D
 `A self-training data analyst`
 
-I am a fitness guy, pizza enthusiastic and data lover (but don't tell my wife she's jealous).
 
 My data journey started with my actual position as a project manager. Since day one I had to, extract, clean and analyze data. Back then I was reling exclusively on Excel to do all this work and it was kind of... messy. But ! My natural analytical thinking was good and I knew I can sharp it. So I started to learn about data, and how I can do a professionnal analysis on my every day data. After learning Powerquery, some basic SQL, PowerBI and Statistics, I was be able to do proper reporting to my managers. 
 
