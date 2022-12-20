@@ -15,7 +15,7 @@ To continue this journey, I made a choice to switching into a data analyst posit
 
 ### 📙 Projects:
 
-[Chinook Analysis](https://github.com/AndreaR2D/Chinook_Analysis): Business analysis of a record store
+[Chinook Analysis](https://github.com/AndreaR2D/Chinook_Analysis): Analysis of the chinook test DB From https://www.sqlitetutorial.net
 
 [Nashville housing](https://github.com/AndreaR2D/Nashville_Housing): Analysis of the Nashville 2013-2016 house market
 
