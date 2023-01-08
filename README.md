@@ -19,7 +19,7 @@ To continue this journey, I made a choice to switching into a data analyst posit
 
 [Nashville housing](https://github.com/AndreaR2D/Nashville_Housing): Analysis of the Nashville 2013-2016 house market
 
-[Tech Items diag](https://github.com/AndreaR2D/Tech-items-diag): Analysis of after sale tickets for techs items. Data from Jean Milpied "reparator.ai" https://github.com/JeanMILPIED/reparatorAI
+[Tech Items diag](https://github.com/AndreaR2D/Tech-items-diag): Analysis of tech items after sale tickets. Data from Jean Milpied "reparator.ai" https://github.com/JeanMILPIED/reparatorAI
 
 
 ### 💻 Networks:
