@@ -15,11 +15,14 @@ To continue this journey, I made a choice to switching into a data analyst posit
 
 ### 📙 Projects:
 
+[NBA Dashboard](https://github.com/AndreaR2D/NBA_Analysis): Project used as a DAX Sandbox.
+
 [Chinook Analysis](https://github.com/AndreaR2D/Chinook_Analysis): Analysis of the chinook test DB From https://www.sqlitetutorial.net
 
 [Nashville housing](https://github.com/AndreaR2D/Nashville_Housing): Analysis of the Nashville 2013-2016 house market
 
 [Tech Items diag](https://github.com/AndreaR2D/Tech-items-diag): Analysis of tech items after sale tickets. Data from Jean Milpied "reparator.ai" https://github.com/JeanMILPIED/reparatorAI
+
 
 
 ### 💻 Networks:
