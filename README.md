@@ -15,7 +15,7 @@ To continue this journey, I made a choice to switching into a data analyst posit
 
 ### 📙 Projects:
 
-[NBA Dashboard](https://github.com/AndreaR2D/NBA_Analysis): Project used as a DAX Sandbox.
+[NBA Sandbox](https://github.com/AndreaR2D/NBA_Sandbox): Project used as a DAX Sandbox.
 
 [Chinook Analysis](https://github.com/AndreaR2D/Chinook_Analysis): Analysis of the chinook test DB From https://www.sqlitetutorial.net
 
