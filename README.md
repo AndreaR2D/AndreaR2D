@@ -19,8 +19,6 @@ To continue this journey, I made a choice to switching into a data analyst posit
 
 [Tech Items diag](https://github.com/AndreaR2D/Tech-items-diag): **[WIP]** Analysis of tech items after sale tickets. Data from Jean Milpied "reparator.ai" project https://github.com/JeanMILPIED/reparatorAI
 
-[Nashville housing](https://github.com/AndreaR2D/Nashville_Housing): **[WIP]** Analysis of the Nashville 2013-2016 house market 
-
 [NBA Sandbox](https://github.com/AndreaR2D/NBA_Sandbox): Project used as a DAX Sandbox.
 
 
