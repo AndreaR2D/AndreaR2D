@@ -10,7 +10,11 @@ To continue this journey, I made a choice to switching into a data analyst posit
 
 ### 🛠 Skills and tools:
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg' alt='SQLite' height='40'> <img src='https://github.com/AndreaR2D/AndreaR2D/blob/main/dbeaver.png' alt='DBeaver' height='40'> <img src='https://github.com/AndreaR2D/AndreaR2D/blob/main/PowerBI-Icon-Transparent.png' alt='PowerBI' height='40'> <img src='https://github.com/AndreaR2D/AndreaR2D/blob/main/excel.png' alt='Excel' height='40'> <img src='https://github.com/AndreaR2D/AndreaR2D/blob/main/qgis-logo-v3.png' alt='QGIS' height='40'> *And more to come*
+<img src='https://github.com/AndreaR2D/AndreaR2D/blob/main/excel.png' alt='Excel' height='40'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg' alt='SQLite' height='40'> <img src='https://github.com/AndreaR2D/AndreaR2D/blob/main/PowerBI-Icon-Transparent.png' alt='PowerBI' height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='Python' height='40'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt='Pandas' height='40'/> <img src='https://github.com/AndreaR2D/AndreaR2D/blob/main/qgis-logo-v3.png' alt='QGIS' height='40'> 
+
+
+
+*And more to come*
 
 
 ### 📙 Projects:
