@@ -19,7 +19,7 @@ To continue this journey, I made a choice to switching into a data analyst posit
 
 ### 📙 Projects:
 
-[Parcoursup 2020](https://github.com/AndreaR2D/Chinook_Analysis): Candidate profiling and  occupancy rate
+[Parcoursup 2020](https://github.com/AndreaR2D/Parcoursup2020): Candidate profiling and  occupancy rate
 
 [Chinook Analysis](https://github.com/AndreaR2D/Chinook_Analysis): Analysis of the chinook test DB From https://www.sqlitetutorial.net as SQLite Training
 
