@@ -2,9 +2,7 @@
 `A self-training data analyst`
 
 
-My data journey started with my actual position as a project manager. Since day one I had to, extract, clean and analyze data. Back then I was reling exclusively on Excel to do all this work and it was kind of... messy. But ! My natural analytical thinking was good and I knew I can sharp it. So I started to learn about data, and how I can do a professionnal analysis on my every day data. After learning Powerquery, some basic SQL, PowerBI and Statistics, I was be able to do proper reporting to my managers. 
-
-To continue this journey, I made a choice to switching into a data analyst position. Since I'm still a project manager yet, I teach myself data analysis skills. I'm currently working on side projects to strengthen my skills. 
+A data scientist who want to break into quantitative trading. What could go wrong ?
 
 ---
 
