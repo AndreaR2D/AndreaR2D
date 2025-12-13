@@ -1,5 +1,5 @@
 # 🏋️‍♂️ Andrea R2D
-`A self-training data analyst`
+`Never stop learning`
 
 
 A data scientist who want to break into quantitative trading. What could go wrong ?
