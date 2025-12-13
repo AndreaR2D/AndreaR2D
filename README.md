@@ -8,11 +8,12 @@ A data scientist who want to break into quantitative trading. What could go wron
 
 ### 🛠 Skills and tools:
 
-<img src='https://github.com/AndreaR2D/AndreaR2D/blob/main/excel.png' alt='Excel' height='40'> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg' alt='SQLite' height='40'> <img src='https://github.com/AndreaR2D/AndreaR2D/blob/main/PowerBI-Icon-Transparent.png' alt='PowerBI' height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='Python' height='40'/> <img src='https://github.com/AndreaR2D/AndreaR2D/blob/main/qgis-logo-v3.png' alt='QGIS' height='40'> 
+<img src='https://github.com/AndreaR2D/AndreaR2D/blob/main/excel.png' alt='Excel' height='40'> <img src='https://static.amarello.cloud/img/bigquery.png' alt='Bigquery' height='40'> <img src='https://github.com/AndreaR2D/AndreaR2D/blob/main/PowerBI-Icon-Transparent.png' alt='PowerBI' height='40'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='Python' height='40'/> 
+<img src='https://depotimage.com/wp-content/uploads/2025/01/Git-Logo-PNG-1.png.webp' alt='git' height='40'> 
+<img src='https://www.nicepng.com/png/detail/386-3869336_hashicorp-terraform-logo.png' alt='terraform' height='40'> 
+<img src='https://github.com/AndreaR2D/AndreaR2D/blob/main/qgis-logo-v3.png' alt='QGIS' height='40'> 
 
 
-
-*And more to come*
 
 
 ### 📙 Projects:
