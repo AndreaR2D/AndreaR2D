@@ -15,21 +15,6 @@ A data scientist who want to break into quantitative trading. What could go wron
 
 
 
-
-### 📙 Projects:
-
-[Parcoursup 2020](https://github.com/AndreaR2D/Parcoursup2020): Candidate profiling and  occupancy rate
-
-[Chinook Analysis](https://github.com/AndreaR2D/Chinook_Analysis): Analysis of the chinook test DB From https://www.sqlitetutorial.net as SQLite Training
-
-[Tech Items diag](https://github.com/AndreaR2D/Tech-items-diag): Analysis of tech items after sale tickets. Data from Jean Milpied "reparator.ai" project https://github.com/JeanMILPIED/reparatorAI
-
-[Telco customers analysis](https://github.com/AndreaR2D/Telco): Customer churn analysis of a telco company
-
-[NBA Sandbox](https://github.com/AndreaR2D/NBA_Sandbox): Project used as a DAX Sandbox.
-
-
-
 ### 💻 Networks:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndreaR2D)  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andrear2d/)  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg' alt='kaggle' height='40'>](https://www.kaggle.com/andrear2d)  
